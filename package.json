@@ -1,0 +1,12 @@
+{
+  "name": "server_tut",
+  "version": "1.0.0",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sample.js"
+  },
+  "author": "krishna singh",
+  "license": "ISC",
+  "description": ""
+}
